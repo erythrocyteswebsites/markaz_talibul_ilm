@@ -22,3 +22,10 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+
+
+# hugo 
+public/
+resources/
+node_modules/
+.hugo_build.lock
