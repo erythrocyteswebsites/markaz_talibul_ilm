@@ -68,12 +68,35 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Markaz"
+  title : "About markaz"
   image : "images/about/about-1.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+  content : "
+    Welcome to a dedicated educational center **مطية طالب العلم** (Matiyat Talib al-Ilm) for 
+    learners of the Arabic language. Our name, which translates to 
+    \"The Ride of the Knowledge Seeker,\" reflects our mission: to serve as a 
+    steadfast companion on your journey to mastering Arabic, just as a reliable 
+    mount carries a traveler to their destination.
+    
+    At **مطية طالب العلم**, we believe that learning Arabic opens doors to understanding 
+    the Qur’an, classical Islamic texts, and the rich cultural heritage of the Arab world. 
+    Whether you're a beginner or an advanced student, our structured curriculum, 
+    experienced teachers, and immersive learning environment ensure a transformative 
+    educational experience.\\
 
+    \\
 
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+    **Why Choose Us?** \\
+
+    ✔ *Expert Instruction*: Learn from qualified teachers who combine traditional methods with modern pedagogy. \\
+
+    ✔ *Comprehensive Curriculum*: Master Fus-ha (Classical Arabic) with a balanced focus on grammar, speaking, reading, and writing. \\
+
+    ✔ *Supportive Environment*: Small class sizes and personalized attention to help every student succeed. \\
+
+    ✔ *Cultural Connection*: Gain insights into Islamic sciences, Arab culture, literature  through language. \\
+
+    Join us at **مطية طالب العلم** and embark on a journey where language learning 
+    becomes a path to knowledge, connection, and deeper understanding."    
   button:
     enable : true
     label : "Learn more"
@@ -120,7 +143,7 @@ event:
   
 ########################### funfacts ############################
 funfacts:
-  enable : true
+  enable : false
   funfact_item:
     # funfact item loop
     - name : "TEACHERS"
