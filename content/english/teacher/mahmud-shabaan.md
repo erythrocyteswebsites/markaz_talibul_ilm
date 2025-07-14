@@ -1,24 +1,24 @@
 ---
-title: "Jacke Mastio"
+title: "Mahmud Shabaan"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "This is personal page of Mahmud Shabaan."
 # teacher portrait
-image: "images/teachers/teacher-2.jpg"
+image: "images/teachers/mahmud-shabaan2.jpg"
 # course
-course: "Computer Science"
+course: "CEO, Teacher"
 # biography
-bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
+bio: "Bio is under development."
 # interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+interest: ["Arabic language","Computer Security"]
 # contact info
 contact:
   # contact item loop
-  - name : "clarkmalik@email.com"
+  - name : "test@testemail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
+    link : "mailto:test@testemail.com"
 
   # contact item loop
   - name : "+12 034 5876"
@@ -26,27 +26,27 @@ contact:
     link : "tel:+120345876"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Mahmud Shabaan"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Mahmud Shabaan"
     icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Mahmud Shabaan"
     icon : "ti-skype" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "clarkmalik.com"
+  - name : "Mahmud Shabaan"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "1313 Boulevard Cremazie,Quebec"
+  - name : "1313 Boulevard Cremazie,Cairo"
     icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
     link : "#"
 
