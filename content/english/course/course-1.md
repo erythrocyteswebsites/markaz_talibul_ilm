@@ -9,9 +9,9 @@ description : "Classic arabic language learinig course"
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Photography"
+category: "languages"
 # teacher
-teacher: "Clark Malik"
+teacher: "Abu Khadeejah Mahmoud Shaban"
 # duration
 duration : "06 Month"
 # weekly
