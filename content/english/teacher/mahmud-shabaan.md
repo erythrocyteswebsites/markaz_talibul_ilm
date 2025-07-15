@@ -10,7 +10,8 @@ image: "images/teachers/mahmud-shabaan.jpg"
 # course
 course: "CEO, Teacher"
 # biography
-bio: "Sheikh Mahmoud Shaker, may God have mercy on him, said:
+bio: "*Sheikh Mahmoud Shaker, may God have mercy on him, said*: \
+
      The Arabic language is the spirit and beating heart of the nation. If it weakens, the nation weakens, and if it strengthens, the nation strengthens. It is not just a language; it is the vessel that preserves religion, identity, and history."
 # interest
 interest: ["Arabic language","Quran"]

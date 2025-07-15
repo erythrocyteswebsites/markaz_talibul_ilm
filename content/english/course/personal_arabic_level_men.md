@@ -1,5 +1,5 @@
 ---
-title: "Arabic language (Mustawa) for women"
+title: "Personal arabic (Mustawa) for men"
 date: 2025-07-15T00:00:01+04:00
 draft: false
 # page title background image
@@ -7,17 +7,17 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Classic arabic language learinig course"
 # course thumbnail
-image: "images/courses/course-arab-mustawiyat_women.jpg"
+image: "images/courses/course-arab-mustawiyat_men_small.jpg"
 # taxonomy
 category: "languages"
 # teacher
-teacher: "Ummu Khadeejah"
+teacher: "Abu Khadeejah Mahmoud Shaban"
 # duration
 duration : "5 weeks"
 # weekly
 weekly : "8 hours"
 # course fee
-fee : "2000 EGP"
+fee : "200 EGP"
 # apply url
 apply_url : "#"
 # type
@@ -43,14 +43,14 @@ After mastering the basics, students progress through seven higher levels, where
 :dart: Practice reading and analyzing texts (news articles, short stories, Islamic texts).\
 :dart: Develop writing skills (essays, summaries, formal/informal correspondence).
 
-### What Will Students Learn?
+### What Will Student Learn?
 :gem: **Speaking**: Confidently hold conversations in Modern Standard Arabic (MSA) or dialect (if included).\
 :gem: **Listening**: Understand native speakers in real-life situations, media, and lectures.\
 :gem: **Reading**: Comprehend texts ranging from simple instructions to complex articles.\
 :gem: **Writing**: Construct well-structured paragraphs, emails, and short essays.\
 :gem: **Cultural Insight**: Gain awareness of Arab customs, traditions, and communication styles.
 
-### What Will Students Do in the Course?
+### What Will Student Do in the Course?
 :green_book: Interactive lessons with exercises (grammar drills, vocabulary practice). \
 :green_book: Listening activities (dialogues, podcasts, videos).\
 :green_book: Speaking practice (role-plays, group discussions, presentations).\
@@ -58,7 +58,7 @@ After mastering the basics, students progress through seven higher levels, where
 :green_book: Writing assignments (short answers, essays, creative writing).\
 :green_book: Quizzes and level assessments to track progress.
 
-### After Graduation, Students Will:
+### After Graduation, Student Will:
 ✅ Achieve fluency in Arabic (depending on completion level).\
 ✅ Receive a certificate of completion for each level or the full course.\
 ✅ Be prepared for official Arabic proficiency tests (if applicable).\
@@ -69,7 +69,7 @@ This course is ideal for beginners, travelers, professionals, and students of Is
 
 ### Requirements
 
-For Men’s Section (Group Classes):\
+For Men’s Section (Personal):\
 :seedling: No prior Arabic knowledge needed (beginner-friendly). \
 :seedling: Commitment to attend classes regularly.
 
@@ -84,6 +84,6 @@ For Men’s Section (Group Classes):\
 
 ### Fees and Funding
 
-**Price** (per Level): 2000 EGP.\
-**Course Duration** (per Level): 5 weeks.\
-**Schedule**: ⏳ 2 hours daily (Sunday to Thursday).
+**Price** (per hour): 200 EGP.\
+**Course Duration** (per Level): according to hours occupied by studying.\
+**Schedule**: ⏳ The number of hours and days depends on the student’s desire and the teacher’s availability
