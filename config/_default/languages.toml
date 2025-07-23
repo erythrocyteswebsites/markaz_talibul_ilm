@@ -8,7 +8,7 @@ weight = 1
 [en.params]
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+copyright = "Copyright &copy; 2025 Markaz Matiyat (The Ride of Knowledge)"
 
 
 
@@ -22,5 +22,5 @@ weight = 2
 [fr.params]
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+copyright = "Copyright &copy; 2025 Markaz Matiyat (The Ride of Knowledge)"
 

@@ -21,25 +21,25 @@ hasChildren = true
   name = "teacher"
   url = "teacher/"
 
-  [[main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice/"
+  # [[main]]
+  # parent = "Pages"
+  # name = "notice"
+  # url = "notice/"
 
   [[main]]
   parent = "Pages"
   name = "event"
   url = "event/"
 
-  [[main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship/"
+  # [[main]]
+  # parent = "Pages"
+  # name = "scholarship"
+  # url = "scholarship/"
 
-  [[main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
+  # [[main]]
+  # parent = "Pages"
+  # name = "research"
+  # url = "research/"
   
 [[main]]
 name = "blog"
@@ -58,19 +58,19 @@ weight = 5
 name = "teacher"
 url = "teacher/"
 
-[[footer]]
-name = "notice"
-url = "notice/"
+# [[footer]]
+# name = "notice"
+# url = "notice/"
 
 [[footer]]
 name = "event"
 url = "event/"
 
-[[footer]]
-name = "scholarship"
-url = "scholarship/"
+# [[footer]]
+# name = "scholarship"
+# url = "scholarship/"
 
-[[footer]]
-name = "research"
-url = "research/"
+# [[footer]]
+# name = "research"
+# url = "research/"
 
