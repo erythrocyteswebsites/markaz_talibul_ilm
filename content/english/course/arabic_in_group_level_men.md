@@ -1,5 +1,5 @@
 ---
-title: "Arabic in Group (Mustawa) for men"
+title: "Arabic in Group (men)"
 date: 2025-07-15T00:00:01+04:00
 draft: false
 # page title background image
@@ -9,13 +9,13 @@ description : "Classic arabic language learinig course"
 # course thumbnail
 image: "images/courses/course-arab-mustawiyat_men_small.jpg"
 # taxonomy
-category: "languages"
+category: "arabic"
 # teacher
 teacher: "Abu Khadeejah Mahmoud Shaban"
 # duration
 duration : "5 weeks"
 # weekly
-weekly : "8 hours"
+weekly : "10 hours"
 # course fee
 fee : "2000 EGP"
 # apply url
@@ -24,6 +24,8 @@ apply_url : "#"
 type: "course"
 ---
 
+ <!-- basic description for preview -->
+This structured Arabic language course consists of **11 progressive levels**, designed to take students from absolute beginners to advanced proficiency
 
 ### About Course
 
@@ -42,6 +44,12 @@ After mastering the basics, students progress through seven higher levels, where
 :dart: Enhance listening and speaking skills through dialogues and discussions.\
 :dart: Practice reading and analyzing texts (news articles, short stories, Islamic texts).\
 :dart: Develop writing skills (essays, summaries, formal/informal correspondence).
+
+
+##### 3. Mastering Phase (Exta Levels)
+:books: Al-Ajurrumiyyah\
+:books: Qatr al-Nada\
+:books: Alfiyya of Ibn Malik
 
 ### What Will Students Learn?
 :gem: **Speaking**: Confidently hold conversations in Modern Standard Arabic (MSA) or dialect (if included).\
@@ -76,14 +84,14 @@ For Men’s Section (Group Classes):\
 
 ### How to Apply
 
-**Registration**: Submit an online application or visit the institute.\
+:ticket: **Registration**: Submit an online application or visit the institute.\
 **Placement Test** to determine the appropriate level.\
 :moneybag: **Payment**: Complete the fee payment to secure your seat.\
-**Start Learning**: Attend orientation and begin classes.
+:notebook: **Start Learning**: Attend orientation and begin classes.
 
 
 ### Fees and Funding
 
-**Price** (per Level): 2000 EGP.\
-**Course Duration** (per Level): 5 weeks.\
-**Schedule**: ⏳ 2 hours daily (Sunday to Thursday).
+:moneybag: **Price** (per Level): 2000 EGP.\
+:alarm_clock: **Course Duration** (per Level): 5 weeks.\
+:date: **Schedule**: 2 hours daily  from Sunday to Thursday.
