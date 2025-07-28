@@ -99,15 +99,43 @@
 </footer>
 <!-- /footer -->
 
-{{ "<!-- Google Map API -->" | safeHTML }}
-{{ with site.Params.map.gmap_api }}
-<script src="{{ . | safeURL }}"></script>
-{{ end }}
+{{ "<!-- Leaflet Map (OpenStreetMap) -->" | safeHTML }}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
+
+{{ "<!-- Initialize Leaflet Map -->" | safeHTML }}
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const mapDiv = document.getElementById("map_canvas");
+    if (mapDiv) { // Check if map container exists
+      const lat = parseFloat(mapDiv.dataset.latitude) || 51.505; // Default fallback
+      const lng = parseFloat(mapDiv.dataset.longitude) || -0.09; // Default fallback
+      const markerIconUrl = mapDiv.dataset.marker || "https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png";
+      const markerName = mapDiv.dataset.markerName || "Location";
+
+      const map = L.map("map_canvas").setView([lat, lng], 13);
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      const customIcon = L.icon({
+        iconUrl: markerIconUrl,
+        iconSize: [25, 41],
+        iconAnchor: [12, 41]
+      });
+
+      L.marker([lat, lng], { icon: customIcon })
+        .addTo(map)
+        .bindPopup(markerName);
+    }
+  });
+</script>
+
 
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
