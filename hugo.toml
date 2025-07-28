@@ -106,8 +106,8 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "30.043516870533832"
-map_longitude = "31.367509106111168"
+map_latitude = "30.043313925994696"
+map_longitude = "31.36848465478465"
 map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies

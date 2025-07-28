@@ -113,8 +113,8 @@
   document.addEventListener("DOMContentLoaded", function() {
     const mapDiv = document.getElementById("map_canvas");
     if (mapDiv) { // Check if map container exists
-      const lat = parseFloat(mapDiv.dataset.latitude) || 51.505; // Default fallback
-      const lng = parseFloat(mapDiv.dataset.longitude) || -0.09; // Default fallback
+      const lat = parseFloat(mapDiv.dataset.latitude) || 30.04332785709076; // Default fallback
+      const lng = parseFloat(mapDiv.dataset.longitude) || 31.368475267083543; // Default fallback
       const markerIconUrl = mapDiv.dataset.marker || "https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png";
       const markerName = mapDiv.dataset.markerName || "Location";
 
